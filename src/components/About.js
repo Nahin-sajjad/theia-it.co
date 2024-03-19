@@ -11,9 +11,10 @@ function About() {
           <div className="col-md-6">
             <h2 className="main-title about-h2">ABOUT</h2>
             <p className="main-p">
-              Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur
-              quam purus, ullamcorper id risus eu, consectetur consectetur
-              purus. Etiam sagittis in eros ac sollicitudin.
+            TheiaTech specializes in transforming businesses through innovative technology solutions. 
+            With expertise in AI, cloud services, and cybersecurity, we empower organizations to navigate the digital landscape confidently.
+            Our tailored approach ensures scalability, security, and efficiency, driving growth and innovation. 
+            At TheiaTech, we're not just consultants; we're your strategic tech allies..
             </p>
           </div>
         </div>

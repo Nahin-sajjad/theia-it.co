@@ -10,9 +10,9 @@ function Footer() {
           <div className="side1">
             <div className="row">
               <div className="col-md-3">
-                <h1 className="logo">DarkLeas</h1>
+                <h1 className="logo">TheiaTech</h1>
                 <p className="footer-text">
-                  Lorem ipsum Here are thriteen health benefits of apples Lorem
+                  Where technology meets transformation.
         
                 </p>
               </div>
@@ -46,7 +46,7 @@ function Footer() {
                 <p className="footer-title">Contact</p>
                 <ul>
                   <li>
-                    <Link to="#" >burhankcd@gmail.com</Link>
+                    <Link to="#" >nyne.sazzad999@outlook.com</Link>
                   </li>
                   <li>
                     <Link to="#" > Burhan #3265</Link>
